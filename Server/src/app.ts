@@ -9,7 +9,7 @@ const app = express();
 
 // Configure CORS
 const allowedOrigins = [
-  "https://consciousapp.vercel.app",
+  "https://second-brain2-frontend.onrender.com",
   "https://cronify-web-rho.vercel.app",
   "http://localhost:5173"
 ];
