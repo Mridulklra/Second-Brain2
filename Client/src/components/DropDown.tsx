@@ -35,7 +35,7 @@ function DropDown() {
     const fetchStars = async () => {
       try {
         const response = await axios.get(
-          "https://api.github.com/repos/sreyas-cheviri/consciousapp"
+          // "https://api.github.com/repos/sreyas-cheviri/consciousapp"
         );
         setStars(response.data.stargazers_count);
       } catch (error) {
@@ -136,7 +136,7 @@ function DropDown() {
             className="px-1 py-1  dark:border-zinc-400 w-full cursor-pointer"
           >
             <a
-              href="https://x.com/sreyascheviri"
+              // href="https://x.com/sreyascheviri"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full flex items-start gap-2 text-nowrap"

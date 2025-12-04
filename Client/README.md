@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/sreyas-cheviri/consciousapp-client">
     <img src="https://github.com/sreyas-cheviri/consciousapp-client/blob/main/public/logo.png" alt="Logo" width="40px" >
   </a>
@@ -80,4 +80,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or need support, feel free to contact:
 
   - GitHub: [sreyas-cheviri](https://github.com/sreyas-cheviri)
-  - X: [sreyascheviri](https://x.com/sreyascheviri)
+  - X: [sreyascheviri](https://x.com/sreyascheviri) -->
