@@ -2,26 +2,26 @@
 
 
 <p align="center">
-  <a href="https://github.com/sreyas-cheviri/consciousapp">
-    <img src="https://github.com/sreyas-cheviri/consciousapp-client/blob/main/public/logo.png" alt="Logo" width="40px" >
+  <a href="https://github.com/sreyas-cheviri/Serenciousapp">
+    <img src="https://github.com/sreyas-cheviri/Serenciousapp-client/blob/main/public/logo.png" alt="Logo" width="40px" >
   </a>
 <br/>
-  <h3 align="center">Conscious app</h3>
+  <h3 align="center">Serencious app</h3>
   <p align="center" >
-   Conscious is a second brain web app designed to save and search links, notes, and other media from various sources effortlessly. This repository contains the backend codebase for the Conscious application.
+   Serencious is a second brain web app designed to save and search links, notes, and other media from various sources effortlessly. This repository contains the backend codebase for the Serencious application.
 
   </p>
   <div align="center">
 
    
-![Language](https://img.shields.io/github/languages/top/sreyas-cheviri/consciousapp)
-![Last Commit](https://img.shields.io/github/last-commit/sreyas-cheviri/consciousapp)
-![Repo Size](https://img.shields.io/github/repo-size/sreyas-cheviri/consciousapp)
+![Language](https://img.shields.io/github/languages/top/sreyas-cheviri/Serenciousapp)
+![Last Commit](https://img.shields.io/github/last-commit/sreyas-cheviri/Serenciousapp)
+![Repo Size](https://img.shields.io/github/repo-size/sreyas-cheviri/Serenciousapp)
 
   </div>
 </p>
 
-## FE repo -> [conscious-client](https://github.com/sreyas-cheviri/superconscious-client).
+## FE repo -> [Serencious-client](https://github.com/sreyas-cheviri/superSerencious-client).
 
 
 
@@ -30,8 +30,8 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sreyas-cheviri/superconscious.git
-   cd superconscious
+   git clone https://github.com/sreyas-cheviri/superSerencious.git
+   cd superSerencious
    ```
 
 3. **Install dependencies:**
@@ -43,7 +43,7 @@
    Create a `.env` file in the root directory and add the following variables:
    ```env
    PORT=3000
-   MONGODB_URI=mongodb://localhost:27017/superconscious
+   MONGODB_URI=mongodb://localhost:27017/superSerencious
    GEMINI_API_KEY=
    PINECONE_API_KEY=
    PINECONE_ENVIRONMENT=index region

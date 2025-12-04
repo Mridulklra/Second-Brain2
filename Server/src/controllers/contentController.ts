@@ -100,7 +100,7 @@ export const getContent = async (req: AuthRequest, res: Response): Promise<void>
           {
             _id: "default-1",
             type: "Note",
-            title: "Welcome to Conscious!",
+            title: "Welcome to Serencious!",
             content:
               "This is your default content. Start exploring now! click on Add Memory to add more content",
             imageUrl: null,

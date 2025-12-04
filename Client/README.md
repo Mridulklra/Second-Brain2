@@ -1,25 +1,25 @@
 <!-- <p align="center">
-  <a href="https://github.com/sreyas-cheviri/consciousapp-client">
-    <img src="https://github.com/sreyas-cheviri/consciousapp-client/blob/main/public/logo.png" alt="Logo" width="40px" >
+  <a href="https://github.com/sreyas-cheviri/Serenciousapp-client">
+    <img src="https://github.com/sreyas-cheviri/Serenciousapp-client/blob/main/public/logo.png" alt="Logo" width="40px" >
   </a>
 <br/>
-  <h3 align="center">Conscious app</h3>
+  <h3 align="center">Serencious app</h3>
   <p align="center" >
-   Conscious is a second brain web app designed to save and search links, notes, and other media from various sources effortlessly. This repository contains the frontend codebase for the Conscious application.
+   Serencious is a second brain web app designed to save and search links, notes, and other media from various sources effortlessly. This repository contains the frontend codebase for the Serencious application.
 
   </p>
   <div align="center">
 
    
-![Language](https://img.shields.io/github/languages/top/sreyas-cheviri/consciousapp-client)
-![Last Commit](https://img.shields.io/github/last-commit/sreyas-cheviri/consciousapp-client)
-![Repo Size](https://img.shields.io/github/repo-size/sreyas-cheviri/consciousapp-client)
+![Language](https://img.shields.io/github/languages/top/sreyas-cheviri/Serenciousapp-client)
+![Last Commit](https://img.shields.io/github/last-commit/sreyas-cheviri/Serenciousapp-client)
+![Repo Size](https://img.shields.io/github/repo-size/sreyas-cheviri/Serenciousapp-client)
 
   </div>
 </p>
 
 
-## BE repo -> [backend repositry - consciousApp](https://github.com/sreyas-cheviri/superconscious)
+## BE repo -> [backend repositry - SerenciousApp](https://github.com/sreyas-cheviri/superSerencious)
 
 
 
@@ -28,12 +28,12 @@ To install and set up the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sreyas-cheviri/superconscious-client.git
+    git clone https://github.com/sreyas-cheviri/superSerencious-client.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd superconscious-client
+    cd superSerencious-client
     ```
 
 3. Install the dependencies:

@@ -184,7 +184,7 @@ export function Modal({ open, onClose, onContentAdded, setToastLoading }: ModalP
                 />
                 {type === ContentType.Url ? (
                   <Input
-                    placeholder="https://consciousapp.vercel.app"
+                    placeholder="https://Serenciousapp.vercel.app"
                     reference={LinkRef}
                     variant="secondary"
                     onKeyDown={(e) => e.key === "Enter" &&

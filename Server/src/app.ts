@@ -29,7 +29,7 @@ app.use(cors({
 app.use(express.json());
 
 app.get("/", (_req, res) => {
-  res.send("server health check - conscious running!");
+  res.send("server health check - Serencious running!");
 });
 
 app.use("/api/v1/auth", authRoutes);

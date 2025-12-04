@@ -1,10 +1,10 @@
 import { Link, useNavigate } from "react-router-dom";
 import { Button } from "../components/Button";
 import { useEffect, useState } from "react";
-import image1 from "../assets/image.png";
-import image2 from "../assets/image2.png";
-import image3 from "../assets/image3.png";
-import image4 from "../assets/image4.png";
+import image1 from "../assets/image5.png";
+import image2 from "../assets/image7.png";
+import image3 from "../assets/image8.png";
+import image4 from "../assets/image6.png";
 
 
 export default function HomePage(): JSX.Element {
@@ -78,7 +78,7 @@ export default function HomePage(): JSX.Element {
             <h1
               className={`md:text-5xl  text-3xl  mt-2  tracking-tighter text-black font-recoleta  transition-all duration-300`}
             >
-              Conscious
+              Serencious
             </h1>
           </header>
 
@@ -88,7 +88,7 @@ export default function HomePage(): JSX.Element {
             
             </p>
             <p className="mt-2  text-sm font-poppins font-medium text-zinc-500">
-              Conscious, an AI-powered second brain that helps you store,
+              Serencious, an AI-powered second brain that helps you store,
               recall, and link your knowledge effortlessly.
             </p>
           </section>

@@ -198,7 +198,7 @@ export function Auth() {
             <img
               className="contrast-75 backdrop-contrast-50"
               src={isSignUp ? signupimg : cfaeebc3ea50c461b550a8cea90b2bdc}
-              alt="images conscious"
+              alt="images Serencious"
             />
           </div>
         </div>

@@ -63,7 +63,7 @@ export const Header = ({ isSharedView = false }: HeaderProps) => {
               />
             </button>
             <h1 className="text-xl text-zinc-100  font-recoleta dark:text-zinc-900 transition-all duration-300">
-              Conscious
+              Serencious
             </h1>
           </div>
 
